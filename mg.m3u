@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,CCTV1综合高清
+#EXTINF:-1 group-title=https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png"CCTV1综合高清"
 http://stream.guihet.com/migu/index.php?id=608807420
-#EXTINF:-1,CCTV2财经高清
+#EXTINF:-1 grouptitle=https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-2_Logo.svg"CCTV2财经高清"
 http://stream.guihet.com/migu/index.php?id=631780532
 #EXTINF:-1,CCTV4中文国际高清
 http://stream.guihet.com/migu/index.php?id=631780421
